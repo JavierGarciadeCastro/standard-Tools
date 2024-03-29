@@ -4,7 +4,6 @@ This is a set of scripts and notebooks intented to introduce people to the use o
 
 ## How to install
 
-...
 
 ### Git installation
 
