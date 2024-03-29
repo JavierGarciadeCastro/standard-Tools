@@ -4,6 +4,8 @@ This is a set of scripts and notebooks intented to introduce people to the use o
 
 ## How to install
 
+...
+
 ### Git installation
 
 In order to learn how to use GitHub, installation will be done by manual git initiallization. Git will allow to control the different versions of the code. In the following: Remote repository will refer to the code that you have in GitHub, and local repository will refer to the code that you have in your working area e.g. your remote machine, lxplus, uaf... etc.
